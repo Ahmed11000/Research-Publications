@@ -1,4 +1,4 @@
-# Research Publications
+# Recent Research Publications
 
 A collection of my published research in Artificial Intelligence, Machine Learning, Medical Imaging, and Predictive Maintenance.
 
